@@ -5,7 +5,10 @@ This is a Yolov5 Project that allows you to play rock-paper-scissors in front of
 ## Demo
 
 
-https://github.com/PhilReg/RPS_Yolo/assets/116729488/722f6118-fcb1-40cb-b7fd-bfa130f6e3d5
+
+https://github.com/PhilReg/RPS_Yolo/assets/116729488/73e98368-caa8-429c-a211-bba85e853e98
+
+
 
 ### Additional information:
 -Trained following the yolov5 documentation for custom models (https://github.com/ultralytics/yolov5)
