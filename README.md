@@ -11,7 +11,7 @@ https://github.com/PhilReg/RPS_Yolo/assets/116729488/73e98368-caa8-429c-a211-bba
 
 
 ### Additional information:
--Trained following the yolov5 documentation for custom models (https://github.com/ultralytics/yolov5)
--Trainingset in repository only includes the original images. An augmentationspipeline is in place to augment these for additional data
--The only hyperparameter changed from the original settings is the confidence threshold (0.25->0.05)
--For the best results play infront of a white background
+-Trained following the yolov5 documentation for custom models (https://github.com/ultralytics/yolov5)  
+-Trainingset in repository only includes the original images. An augmentationspipeline is in place to augment these for additional data  
+-The only hyperparameter changed from the original settings is the confidence threshold (0.25->0.05)  
+-For the best results play infront of a white background  
